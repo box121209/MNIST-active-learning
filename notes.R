@@ -1,4 +1,4 @@
-setwd("~/Dropbox/Projects/201701-oneshotzip")
+setwd("~/projects/201707-MNIST-active-learning")
 
 source("functions.R")
 
